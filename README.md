@@ -1,54 +1,7 @@
-# 👋 Hi, I'm Ramkishor Prajapati!
+# 💫 About Me:
+# 👋 Hi, I'm Ramkishor Prajapati!<br><br>Welcome to my GitHub profile! I'm a passionate AI & Data Science enthusiast blending academic learning with real-world applications.<br><br>## 🚀 About Me<br><br>🎓 Currently pursuing a degree in **Artificial Intelligence and Data Science**, with a CGPA of **9.34**.  <br>💼 Working full-time as a **Data Science Analyst at Marico**, contributing to business-driven solutions using data and machine learning.  <br>🧠 Excited by real-world problem solving with **AI**, **ML**, and **generative technologies**.  <br>🌍 Based in **Mumbai, India**.<br><br>## 💼 Experience<br><br>🔹 **Data Science Analyst @ Marico**  <br>*Full-time | April 2025 – Present*  <br>- Working on data-driven solutions that enhance operational decision-making.  <br>- Leveraging tools like Python, SQL Server, Power BI, and machine learning to solve business problems.<br><br>## 🛠️ Technologies & Tools<br><br>- **Languages:** Python, SQL, NoSQL, JavaScript  <br>- **ML/AI:** Scikit-learn, TensorFlow, OpenCV, Transformers  <br>- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI  <br>- **Databases:** SQL Server, MySQL, MongoDB  <br>- **Others:** Git, Docker, Qiskit, REST APIs, Instagram Graph API<br><br>## 💡 Key Projects<br><br>🔸 **AI-Powered Educational Platform**  <br>*Final year project leveraging Generative AI*  <br>- Auto-generates animated educational videos, comics, and real-time code visualizations.  <br>- Helps students understand concepts interactively from natural language queries.<br><br>🔸 **Debt Collection Optimization using ML**  <br>- Machine learning system for predicting payment behavior and classifying risk levels.<br><br>🔸 **Auto-Driving Vehicle in GTA V**  <br>- Vision-based self-driving vehicle system built using computer vision in a simulated environment.  <br>- 🔗 [View on GitHub](https://github.com/RAMKISHOR2001/Auto_Driving_Vehicle_in_Gta5)<br><br>## 🏆 Achievements<br><br>- 🎓 Scored **9.55 CGPA** in recent **university semester exams**  <br>- 📊 Active problem solver on LeetCode: [My LeetCode Profile](https://leetcode.com/rkprajapati1412/)<br><br>## 📫 Let's Connect<br><br>- 💼 [LinkedIn](https://www.linkedin.com/in/ramkishor-prajapati-165405221/)  <br>- 🧑‍💻 [LeetCode](https://leetcode.com/rkprajapati1412/)  <br>- 📬 Email: rkprajapati1412@gmail.com  <br><br>---<br><br>Thanks for visiting my profile! Let’s connect, collaborate, and innovate together. 🚀<br>
 
-Welcome to my GitHub profile! I'm a passionate AI & Data Science enthusiast blending academic learning with real-world applications.
 
-## 🚀 About Me
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-🎓 Currently pursuing a degree in **Artificial Intelligence and Data Science**, with a CGPA of **9.34**.  
-💼 Working full-time as a **Data Science Analyst at Marico**, contributing to business-driven solutions using data and machine learning.  
-🧠 Excited by real-world problem solving with **AI**, **ML**, and **generative technologies**.  
-🌍 Based in **Mumbai, India**.
-
-## 💼 Experience
-
-🔹 **Data Science Analyst @ Marico**  
-*Full-time | April 2025 – Present*  
-- Working on data-driven solutions that enhance operational decision-making.  
-- Leveraging tools like Python, SQL Server, Power BI, and machine learning to solve business problems.
-
-## 🛠️ Technologies & Tools
-
-- **Languages:** Python, SQL, NoSQL, JavaScript  
-- **ML/AI:** Scikit-learn, TensorFlow, OpenCV, Transformers  
-- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn, Power BI  
-- **Databases:** SQL Server, MySQL, MongoDB  
-- **Others:** Git, Docker, Qiskit, REST APIs, Instagram Graph API
-
-## 💡 Key Projects
-
-🔸 **AI-Powered Educational Platform**  
-*Final year project leveraging Generative AI*  
-- Auto-generates animated educational videos, comics, and real-time code visualizations.  
-- Helps students understand concepts interactively from natural language queries.
-
-🔸 **Debt Collection Optimization using ML**  
-- Machine learning system for predicting payment behavior and classifying risk levels.
-
-🔸 **Auto-Driving Vehicle in GTA V**  
-- Vision-based self-driving vehicle system built using computer vision in a simulated environment.  
-- 🔗 [View on GitHub](https://github.com/RAMKISHOR2001/Auto_Driving_Vehicle_in_Gta5)
-
-## 🏆 Achievements
-
-- 🎓 Scored **9.55 CGPA** in recent **university semester exams**  
-- 📊 Active problem solver on LeetCode: [My LeetCode Profile](https://leetcode.com/rkprajapati1412/)
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ramkishor-prajapati-165405221/)  
-- 🧑‍💻 [LeetCode](https://leetcode.com/rkprajapati1412/)  
-- 📬 Email: rkprajapati1412@gmail.com  
-
----
-
-Thanks for visiting my profile! Let’s connect, collaborate, and innovate together. 🚀
