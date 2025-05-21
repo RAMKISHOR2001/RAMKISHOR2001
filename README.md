@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate AI & Data Science enthusiast blen
 ## 💼 Experience
 
 🔹 **Data Science Analyst @ Marico**  
-*Full-time | Jan 2025 – Present*  
+*Full-time | April 2025 – Present*  
 - Working on data-driven solutions that enhance operational decision-making.  
 - Leveraging tools like Python, SQL Server, Power BI, and machine learning to solve business problems.
 
